@@ -1,4 +1,4 @@
-# **Website-in-C-CS_final_project-2018-6-25**
+# **Website_in_C_CS_final_project_2018_6_25**
 
 * This is a simple website built by C and XML
 
